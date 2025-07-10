@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className='flex flex-col text-center items-center'>
-      <h1 className="text-5xl m-[25px] font-nutito">git init
+      <h1 className="text-5xl m-[25px] font-nutito">PersonChat
       </h1>
       <div className='flex flex-col gap-2 font-shantell'>
         <div className='w-sm h-[100px] bg-orange-200 rounded-3xl'>       
